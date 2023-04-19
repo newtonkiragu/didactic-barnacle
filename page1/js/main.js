@@ -74,7 +74,7 @@ new Vue({
     this.createFile("main.js", "js")
 
     this.createFile("300.jpeg", "img")
-    this.createFile("style.css", "css")
+    this.createFile("styles.css", "css")
     this.createFile("main.css", "css")
     this.createFile("normalize.css", "css")
 
